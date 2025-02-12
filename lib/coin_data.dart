@@ -21,7 +21,7 @@ const List<String> currenciesList = [
   'ZAR'
 ];
 
-const List<String> cryptoLidt = [
+const List<String> cryptoList = [
   'BTC',
   'ETH',
   'LTC'
